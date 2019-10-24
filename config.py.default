@@ -1,0 +1,7 @@
+DBHOST="mysql-zabbix"
+DBNAME="zabbix"
+DBUSER=""
+DBPASS=""
+DEL_LIMIT=15000
+DEL_PART=10
+DEBUG=0
